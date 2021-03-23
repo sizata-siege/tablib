@@ -1,8 +1,12 @@
 {
-  "name": "tablib",
+  "name": "@sizata/tablib",
   "version": "1.0.0",
   "description": "A package to manage tabs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sizata-siege/tablib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
