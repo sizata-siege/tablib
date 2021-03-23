@@ -5,11 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sizata-siege/tablib"
+    "url": "git+https://github.com/sizata-siege/tablib.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amirhossein Shakeri",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sizata-siege/tablib/issues"
+  },
+  "homepage": "https://github.com/sizata-siege/tablib#readme"
 }
